@@ -1,0 +1,9 @@
+*.O
+*.o
+*.uvguix.*
+*.uvoptx
+*.dbgconf
+
+Objects/
+Listings/
+DebugConfig/
